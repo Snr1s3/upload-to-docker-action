@@ -5,6 +5,9 @@ description: Builds and uploads a new Docker image to the configured registry.
 branding:
   icon: package
   color: blue
+  categories:
+    - deployment
+    - build
 
 inputs:
   docker_username:
